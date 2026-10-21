@@ -22,5 +22,17 @@ internal static class Program
         Console.WriteLine();
         Console.WriteLine(" Lab 5 ");
         Lab5.Run();
+
+        Console.WriteLine();
+        Console.WriteLine(" Lab 6 ");
+        Lab6App.Main([]);
+
+        Console.WriteLine();
+        Console.WriteLine(" Lab 7 ");
+        Lab7.Run();
+
+        Console.WriteLine();
+        Console.WriteLine(" Lab 8 ");
+        Lab8.Run();
     }
 }
